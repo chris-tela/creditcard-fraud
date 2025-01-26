@@ -1,7 +1,7 @@
 **Using AI to Detect Credit Card Fraud:**
 
 **Project Description:**
-Our objective was to create a predictive model utilizing a provided dataset. It should be able to discern fraudulent transactions based on variables such as transaction amount, card number, etc.
+Our objective was to create a predictive model utilizing a provided dataset. It is able to discern fraudulent transactions based on variables such as transaction amount, card number, etc. We optimized the model to have a **96% accuracy** in detecting fraud.
 
 This is a collaborative project completed in the Western Datathon 2024. 
 
